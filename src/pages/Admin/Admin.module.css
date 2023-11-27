@@ -1,0 +1,12 @@
+.section {
+  display: flex;
+  gap: 30px;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid black;
+  padding: 1%;
+}
